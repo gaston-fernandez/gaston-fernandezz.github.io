@@ -28,7 +28,7 @@ h6 {
 }
 /* Name */
 h1 {
-  font-family: 'Saira Extra Condensed',serif;
+  font-family: Manrope;
   font-weight: 700;
   font-size: 3rem;
   line-height: 5.5rem;
@@ -59,7 +59,7 @@ h3 {
 
 .subheading {
   font-weight: 500;
-  font-family: 'Saira Extra Condensed',serif;
+  font-family: Open Sans;
   font-size: 1rem;
 }
 
