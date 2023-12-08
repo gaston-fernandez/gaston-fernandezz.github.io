@@ -28,11 +28,12 @@ h6 {
 }
 /* Name */
 h1 {
-  font-family: Manrope;
+  font-family: 'Saira Extra Condensed',serif;
   font-weight: 700;
-  font-size: 4rem;
+  font-size: 6rem;
   line-height: 5.5rem;
   margin-bottom: 2rem;
+  text-transform: uppercase;
 }
 
 @media (max-width: 768px) {
