@@ -430,7 +430,7 @@ span.d-block {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  flex: 25%;
+  flex: 33.333%;
   max-width: 50%;
   padding: 0 4px;
 }
