@@ -464,3 +464,9 @@ span.d-block {
   }
 </style>
 
+
+.floating {
+  float: left;
+  width: 33.33%;
+}
+
