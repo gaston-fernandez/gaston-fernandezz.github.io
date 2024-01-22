@@ -468,5 +468,6 @@ span.d-block {
 .floating {
   float: left;
   width: 33.33%;
+  box-sizing: border-box; 
 }
 
