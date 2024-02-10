@@ -247,6 +247,11 @@ h2 a:hover, a:focus, a:active {
 span.d-block {
   font-family: Manrope;
   font-weight: normal;
+  position: relative;
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+  align-items: center; /* Center items vertically */
+  flex-direction: column; /* Stack items vertically */
 }
 
 
@@ -473,14 +478,14 @@ span.d-block {
 }
 
 
-
+/* 
   .d-non.d-lg-block {
     position: relative;
     display: flex;
     justify-content: center; /* Center items horizontally */
     align-items: center; /* Center items vertically */
     flex-direction: column; /* Stack items vertically */
-  }
+  } */
 
   .logo-image {
     width: 100px; /* Adjust the width as needed */
