@@ -472,3 +472,25 @@ span.d-block {
   box-sizing: border-box; 
 }
 
+
+<style>
+  .d-non.d-lg-block {
+    position: relative;
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    flex-direction: column; /* Stack items vertically */
+  }
+
+  .logo-image {
+    width: 100px; /* Adjust the width as needed */
+    z-index: 2; /* Ensure logo is above the profile picture */
+  }
+
+  .img-profile {
+    position: relative;
+    z-index: 1; /* Ensure profile picture is below the logo */
+    margin-top: -50px; /* Adjust based on the size of the logo to position correctly */
+  }
+</style>
+
