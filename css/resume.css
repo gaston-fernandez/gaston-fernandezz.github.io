@@ -463,7 +463,7 @@ span.d-block {
   .submitted-text {
     font-size: smaller;
   }
-</style>
+
 
 
 .floating {
@@ -473,7 +473,7 @@ span.d-block {
 }
 
 
-<style>
+
   .d-non.d-lg-block {
     position: relative;
     display: flex;
